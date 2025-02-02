@@ -25,7 +25,7 @@ const Navbar = () => {
       <div className="flex items-center space-x-4">
         {/* Email (always visible) */}
         <div className="text-sm md:text-base flex items-center gap-2 cursor-pointer" onClick={copyEmail}>
-        <span className="text-gray-900 dark:text-white">jatin@example.com</span>
+        <span className="text-gray-900 dark:text-white">jangidjatin947@gmail.com</span>
         {copied ? <Check size={16} className="text-green-500" /> : <Clipboard size={16} className="text-gray-500 dark:text-gray-400" />}
       </div>
 
