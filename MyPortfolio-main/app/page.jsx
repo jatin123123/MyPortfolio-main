@@ -4,13 +4,13 @@ import React from "react";
 import { TypewriterEffectSmooth } from "@/components/ui/typewriter-effect";
 import { motion } from "framer-motion";
 import Image from "next/image";
-import Navbar from "./Navbar";
 import { FloatingDockDemo } from "./Floating";
-import { HeroParallaxDemo } from "./skils";
 import { FlipWords } from "@/components/ui/flip-words";
 import { SparklesCore } from "@/components/ui/sparkles";
 
 import { AuroraBackground } from "@/components/ui/aurora-background";
+import Navbar from "@/components/Navbar";
+import { HeroParallaxDemo } from "@/components/skils";
 
 function Home() {
   const word = [
