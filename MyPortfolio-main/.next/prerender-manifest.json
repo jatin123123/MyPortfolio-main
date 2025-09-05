@@ -1,1 +1,11 @@
-{"version":4,"routes":{"/":{"experimentalBypassFor":[{"type":"header","key":"Next-Action"},{"type":"header","key":"content-type","value":"multipart/form-data;.*"}],"initialRevalidateSeconds":false,"srcRoute":"/","dataRoute":"/index.rsc","allowHeader":["host","x-matched-path","x-prerender-revalidate","x-prerender-revalidate-if-generated","x-next-revalidated-tags","x-next-revalidate-tag-token"]},"/favicon.ico":{"initialHeaders":{"cache-control":"public, max-age=0, must-revalidate","content-type":"image/x-icon","x-next-cache-tags":"_N_T_/layout,_N_T_/favicon.ico/layout,_N_T_/favicon.ico/route,_N_T_/favicon.ico"},"experimentalBypassFor":[{"type":"header","key":"Next-Action"},{"type":"header","key":"content-type","value":"multipart/form-data;.*"}],"initialRevalidateSeconds":false,"srcRoute":"/favicon.ico","dataRoute":null,"allowHeader":["host","x-matched-path","x-prerender-revalidate","x-prerender-revalidate-if-generated","x-next-revalidated-tags","x-next-revalidate-tag-token"]}},"dynamicRoutes":{},"notFoundRoutes":[],"preview":{"previewModeId":"b30fa98778ce73c935d81a46f81fb82b","previewModeSigningKey":"be4fcbaf8a851276c7993e6eb4b3a9b6b4d1ab60b87ba0787c839c7db8b2f10e","previewModeEncryptionKey":"288f85f840ea74fb1fdea5a6717786e5dfc7db145f259f383d1c44caac18f2f1"}}
+{
+  "version": 4,
+  "routes": {},
+  "dynamicRoutes": {},
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "62f620bc419673691f95f283855f8416",
+    "previewModeSigningKey": "f0c14c4b9c34a1cdc1e80f1f753a6441e9a53f8287e8fcee25f8ebe3597cb627",
+    "previewModeEncryptionKey": "a35c33346cd9c8ae148f42d30de7fc4643dd63b1c25a3095dfd4b6b3c49d7406"
+  }
+}

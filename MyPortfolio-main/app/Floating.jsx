@@ -26,7 +26,7 @@ export function FloatingDockDemo() {
       icon: (
         <FileUser className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "#",
+      href: "https://docs.google.com/document/d/1YzJ9Rj3n0Mwro3baiisCrXg0APT8nFp_/edit?usp=sharing&ouid=112058565883792372601&rtpof=true&sd=true",
     },
 
     {
@@ -40,7 +40,7 @@ export function FloatingDockDemo() {
         alt="Aceternity Logo" />
         
       ),
-      href: "#",
+      href: "https://docs.google.com/document/d/1YzJ9Rj3n0Mwro3baiisCrXg0APT8nFp_/edit?usp=sharing&ouid=112058565883792372601&rtpof=true&sd=true",
     },
     {
       title: "Linkedin",

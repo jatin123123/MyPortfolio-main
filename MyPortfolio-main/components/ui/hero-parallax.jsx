@@ -27,7 +27,7 @@ export const HeroParallax = ({
   return (
     (<div
       ref={ref}
-      className="h-[300vh] py-40 overflow-hidden dark:bg-black  antialiased relative flex flex-col self-auto [perspective:1000px] [transform-style:preserve-3d]">
+      className="h-[300vh] py-40 overflow-hidden dark:bg-black antialiased relative flex flex-col self-auto [perspective:1000px] [transform-style:preserve-3d]">
       <Header />
       <motion.div
         style={{
@@ -62,11 +62,11 @@ export const Header = () => {
     (<div
       className="max-w-7xl relative mx-auto dark:bg-black py-20 md:py-40 px-4 w-full  left-0 top-0">
       <h1 className="text-2xl md:text-7xl font-mono tracking-tighter font-bold dark:text-white">
-        My Most <br />Innovative Projects
+        Created Multiple <br />Innovative Projects
       </h1>
       <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
-        
-      I leverage Next.js for seamless frontends, MongoDB for scalable data, TensorFlow for AI, and LangChain for powerful language models. With modern tools and frameworks, I build innovative, high-performance solutions that enhance user experiences.       </p>
+        Built a scalable AI/ML project integrating transformer-based and GEN AI Agentic AImodels to solve practical problems with high accuracy and efficiency.”
+       </p>
     </div>)
   );
 };
