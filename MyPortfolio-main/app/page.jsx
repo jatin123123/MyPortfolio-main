@@ -83,7 +83,7 @@ function Home() {
               </p>
               
               <div className="pt-4">
-                <h2 className="text-lg sm:text-xl dark:opacity-70 opacity-70 font-medium">
+                <h2 className="text-lg sm:text-xl dark:text-white text-black dark:opacity-70 opacity-70 font-medium">
                   Proficient in{" "}
                   <FlipWords
                     className="text-blue-600 font-bold font-mono opacity-100 dark:text-blue-400 text-xl sm:text-2xl"
